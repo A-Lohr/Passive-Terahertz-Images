@@ -26,7 +26,6 @@ This repository provides a small set of example images and annotations.
 Due to GitHub file-size limitations, only a small set of examples is stored in this repository. The **full dataset** (images and annotations) can be downloaded from:
 https://drive.google.com/file/d/1cPVF-3n1XddW16BmNbDGg2uVTiUrlR1V/view?usp=sharing
 
-**Full dataset download link:** <<<PUT_FULL_DOWNLOAD_LINK_HERE>>>
 ## License
 This dataset is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
 
