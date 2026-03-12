@@ -51,7 +51,7 @@ Due to GitHub file size limitations, the complete dataset package is provided th
 
 Full dataset download:
 
-【link】
+https://github.com/A-Lohr/Passive-Terahertz-Images/releases/tag/cv
 
 The downloaded archive contains the full set of images and annotations used in our experiments.
 
